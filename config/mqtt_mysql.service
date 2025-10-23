@@ -1,0 +1,11 @@
+[Unit]
+Description=Conexion
+After=mysql.service
+
+[Service]
+Type=simple
+User=gabriel
+ExecStart=/usr/bin/python /home/gabriel/proyecto/python/mqtt_mysql.py
+
+[Install]
+WantedBy=multi-user.target
