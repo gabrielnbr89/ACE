@@ -14,7 +14,8 @@ ACE/
 ├─ uC/          # Programas para los microcontroladores
 ├─ python/      # Conector Python para guardar datos en la base de datos
 ├─ web/         # Sitio web con PHP, CSS, JS y consultas a BBDD
-└─ config/      # Configuraciones y servicios del sistema
+├─ config/      # Configuraciones y servicios del sistema
+└─ docs/        # Documentación
 ```
 
 ---
