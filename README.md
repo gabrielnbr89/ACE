@@ -1,6 +1,6 @@
-# ACE – Analizador de Consumo Energético
+# ACE – Analizador de Consumo Eléctrico
 
-ACE es un proyecto orientado a la lectura, transmisión, almacenamiento y visualización de datos de consumo energético.
+ACE es un proyecto orientado a la lectura, transmisión, almacenamiento y visualización de datos de consumo eléctrico.
 Se compone de múltiples módulos que trabajan en conjunto para brindar monitoreo en tiempo real y análisis histórico desde la web.
 
 ---
